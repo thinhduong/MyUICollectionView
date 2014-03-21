@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EE29BF5C-1482-41E4-AB22-FD6BFD223DBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyUICollectionView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEB27790-F084-499B-BDA0-D59652A0B3B1</key>
+		<string>https://leftmobile.unfuddle.com/svn/leftmobile_lmbc</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyUICollectionView/MyUICollectionView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEB27790-F084-499B-BDA0-D59652A0B3B1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://leftmobile.unfuddle.com/svn/leftmobile_lmbc/MyUICollectionView/MyUICollectionView.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEB27790-F084-499B-BDA0-D59652A0B3B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEB27790-F084-499B-BDA0-D59652A0B3B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyUICollectionView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
